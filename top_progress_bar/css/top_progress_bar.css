@@ -1,0 +1,14 @@
+#top-progress-bar {
+    position:fixed;
+    top:0px;
+    z-index:999999;
+    width : 100%;
+    height: 2px;
+
+}
+
+#top-progress-bar div {
+    background-color: #c13c07;
+    height: 100%;
+    width: 0%;
+}
